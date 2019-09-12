@@ -1,0 +1,5 @@
+﻿1. Very looooong.
+2. Server running on port 5000, angular client with dev server & redirecting calls to '/api/*' to port 5000
+3. Nothing special
+4. Angular app without routing would be ugly, so I incorporatet one together with some navbar.
+5. At end I noticed it's required to change completed tasks to pending. It's not implemented. Only pending to completed. Enough is enough.
